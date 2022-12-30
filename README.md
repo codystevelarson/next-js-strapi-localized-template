@@ -4,7 +4,7 @@ A template next js project with localization pre-configured with the [next-18nex
 
 ## Overview
 
-This template is pre-configured to handle localization for a few languages and can be extended to handle any other i18n supported languages. Use the `next-i18next.config.js` config file to adjust the loaclization settings. The goal with this template is to speed up development and imporve standards for localization in our next.js projects.
+This template is pre-configured to handle localization for a few languages and can be extended to handle any other i18n supported languages. Use the `next-i18next.config.js` config file to adjust the loaclization settings.
 
 Yes,this template is unstyled and ugly.
 
